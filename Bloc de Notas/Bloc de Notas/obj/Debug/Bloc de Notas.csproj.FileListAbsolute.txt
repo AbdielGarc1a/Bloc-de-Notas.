@@ -1,0 +1,20 @@
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\bin\Debug\Bloc de Notas.exe.config
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\bin\Debug\Bloc de Notas.exe
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\bin\Debug\Bloc de Notas.pdb
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc_de_Notas.Form1.resources
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc_de_Notas.Properties.Resources.resources
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.exe
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.pdb
+C:\Users\JADPA17\Desktop\Bloc-de-Notas.-main\Bloc de Notas\Bloc de Notas\Bloc de Notas\bin\Debug\Bloc de Notas.exe.config
+C:\Users\JADPA17\Desktop\Bloc-de-Notas.-main\Bloc de Notas\Bloc de Notas\Bloc de Notas\bin\Debug\Bloc de Notas.exe
+C:\Users\JADPA17\Desktop\Bloc-de-Notas.-main\Bloc de Notas\Bloc de Notas\Bloc de Notas\bin\Debug\Bloc de Notas.pdb
+C:\Users\JADPA17\Desktop\Bloc-de-Notas.-main\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.csprojAssemblyReference.cache
+C:\Users\JADPA17\Desktop\Bloc-de-Notas.-main\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc_de_Notas.Form1.resources
+C:\Users\JADPA17\Desktop\Bloc-de-Notas.-main\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc_de_Notas.Properties.Resources.resources
+C:\Users\JADPA17\Desktop\Bloc-de-Notas.-main\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.csproj.GenerateResource.cache
+C:\Users\JADPA17\Desktop\Bloc-de-Notas.-main\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.csproj.CoreCompileInputs.cache
+C:\Users\JADPA17\Desktop\Bloc-de-Notas.-main\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.exe
+C:\Users\JADPA17\Desktop\Bloc-de-Notas.-main\Bloc de Notas\Bloc de Notas\Bloc de Notas\obj\Debug\Bloc de Notas.pdb

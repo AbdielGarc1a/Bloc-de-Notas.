@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JADPA17\\Desktop\\Bloc-de-Notas.-main\\Bloc de Notas\\Bloc de Notas\\AppCore\\AppCore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JADPA17\\Desktop\\Bloc-de-Notas.-main\\Bloc de Notas\\Bloc de Notas\\AppCore\\AppCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JADPA17\\Desktop\\Bloc-de-Notas.-main\\Bloc de Notas\\Bloc de Notas\\AppCore\\AppCore.csproj",
+        "projectName": "AppCore",
+        "projectPath": "C:\\Users\\JADPA17\\Desktop\\Bloc-de-Notas.-main\\Bloc de Notas\\Bloc de Notas\\AppCore\\AppCore.csproj",
+        "packagesPath": "C:\\Users\\JADPA17\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JADPA17\\Desktop\\Bloc-de-Notas.-main\\Bloc de Notas\\Bloc de Notas\\AppCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JADPA17\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net50"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {
+              "C:\\Users\\JADPA17\\Desktop\\Bloc-de-Notas.-main\\Bloc de Notas\\Bloc de Notas\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\JADPA17\\Desktop\\Bloc-de-Notas.-main\\Bloc de Notas\\Bloc de Notas\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {}
+      }
+    },
+    "C:\\Users\\JADPA17\\Desktop\\Bloc-de-Notas.-main\\Bloc de Notas\\Bloc de Notas\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JADPA17\\Desktop\\Bloc-de-Notas.-main\\Bloc de Notas\\Bloc de Notas\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\JADPA17\\Desktop\\Bloc-de-Notas.-main\\Bloc de Notas\\Bloc de Notas\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\JADPA17\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JADPA17\\Desktop\\Bloc-de-Notas.-main\\Bloc de Notas\\Bloc de Notas\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JADPA17\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net50"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {}
+      }
+    }
+  }
+}
