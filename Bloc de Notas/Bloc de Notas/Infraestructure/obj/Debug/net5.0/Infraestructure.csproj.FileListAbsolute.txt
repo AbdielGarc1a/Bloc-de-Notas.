@@ -1,0 +1,5 @@
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Infraestructure\obj\Debug\net5.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Infraestructure\obj\Debug\net5.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Infraestructure\obj\Debug\net5.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Infraestructure\obj\Debug\net5.0\Infraestructure.AssemblyInfo.cs
+C:\Users\User\OneDrive\Escritorio\Bloc de Notas\Bloc de Notas\Infraestructure\obj\Debug\net5.0\Infraestructure.csproj.CoreCompileInputs.cache
